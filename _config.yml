@@ -1,0 +1,23 @@
+name: katya
+favicon: null
+layout_spectrum: 0.6983968121930957
+typography_spectrum: 0.18152710795402527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10744041088037193
+  lightness: 0.4128731428645551
+  saturation: 0.19579233834519982
+  rhythmicContrast: 0.8675469609443098
+purpose: []
